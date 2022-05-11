@@ -1,0 +1,57 @@
+.container-sm{
+    background-color: rgb(72, 103, 187);
+    margin-top: 25px;
+    height: 550px;
+    width: 350px;
+    border-radius: 5%;
+}
+.row{
+    margin-top: 10px;
+}
+.imagen{
+    margin:10px auto;
+    border: rgb(0, 0, 0) 3px solid;
+    display:block;
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+}
+.nombre{
+    text-align: center;
+    font-size: x-large;
+}
+.info{
+    text-align: center;
+    font-size: medium;
+    margin: 0%;
+    padding: 0%;
+}
+#fila3{
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+}
+.btn{
+    display: block;
+    margin: auto;    
+}
+#red1{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    display: block;
+    margin: auto;  
+    padding: 15px;
+}
+#red0{
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    display: block;
+    margin: auto;  
+}
